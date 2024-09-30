@@ -185,7 +185,7 @@ h2 {
 }
 .cuadro-texto {
     position: relative;
-    background-image: url(/img/cuadroTexto.png);
+    background-image: url(../img/cuadroTexto.png);
     background-size: 100% 100%;
     /* Cubre completamente el área del div, ajustando la imagen según sea necesario */
     background-repeat: no-repeat;
@@ -220,7 +220,7 @@ h2 {
 }
 
 .reves{
-    background-image: url(/img/cuadroTextoRevez.png);
+    background-image: url(../img/cuadroTextoRevez.png);
     
 }
 
